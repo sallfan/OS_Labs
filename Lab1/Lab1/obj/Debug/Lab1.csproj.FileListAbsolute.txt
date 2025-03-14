@@ -1,0 +1,11 @@
+D:\Study\OS_Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Study\OS_Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Study\OS_Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Study\OS_Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Study\OS_Labs\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Study\OS_Labs\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Study\OS_Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Study\OS_Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Study\OS_Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Study\OS_Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Study\OS_Labs\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
